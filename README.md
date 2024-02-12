@@ -18,3 +18,8 @@ BASIC言語のインタプリタを勉強しながら作る
 * QUICK BASICを通り越してVB6をやってみる
 * PICマイコンを使おうと思いアセンブラをやってみる  
 結果、条件分岐くらいしかわかってない。
+
+# youtubeで独り言
+* [Chapter1](https://youtu.be/s-GLGzqtJJ4) 
+* [Chapter2](https://youtu.be/y6u9wT0tXUQ) 
+* [Chapter3](https://youtu.be/RjlY-a5mM5w) 
