@@ -25,3 +25,4 @@ BASIC言語のインタプリタを勉強しながら作る
 * [Chapter3](https://youtu.be/RjlY-a5mM5w) 
 * [Chapter4](https://youtu.be/Hg7AGtbu4a0)
 * [Chapter5](https://youtu.be/1Fj-WRw8zFI)
+* [Chapter6](https://youtu.be/xq1ypJ4gUBE)
